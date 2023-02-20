@@ -1,6 +1,6 @@
 ### Hi i'am drimer 👋
 
-<!--
+
 
 
 Here are some ideas to get you started:
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 
 - 📫 Contact me ! drawdrimer0193@protonmail.com
 
--->
