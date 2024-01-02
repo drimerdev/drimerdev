@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [Mterm](httpe://github.com/drimerdev/mterm)
+- 🔭 I’m currently working on [Mterm](https://github.com/drimerdev/mterm)
 - 🌱 I’m currently learning 🐍Python
 - 👯 I’m looking to collaborate on DrawDrimer projects
 
