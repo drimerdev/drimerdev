@@ -1,5 +1,5 @@
 ### Hi i'am Miguel 👋
-
+[About me](https://drimerdev.github.io/about.html)
 
 
 - 🔭 I’m currently working on [Mterm](https://github.com/drimerdev/mterm)
@@ -9,4 +9,4 @@
 - 📫 Contact me ! milestuber.gg@gmail.com
 - My Web page https://drimerdev.github.io
 
-![Arch user here!](https://i.etsystatic.com/43579062/r/il/cf8e88/5131590950/il_794xN.5131590950_g51h.jpg)
+[![Screenshot-20240102-105709.png](https://i.postimg.cc/HxvCMSYw/Screenshot-20240102-105709.png)](https://postimg.cc/DJGDkPb0)
